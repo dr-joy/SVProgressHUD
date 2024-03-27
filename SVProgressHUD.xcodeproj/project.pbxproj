@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		319401372BB3EFB30035F89C /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 319401362BB3EFB30035F89C /* PrivacyInfo.xcprivacy */; };
 		3CB14F9C1AFBCB57003C2641 /* SVRadialGradientLayer.h in Headers */ = {isa = PBXBuildFile; fileRef = 3CB14F9A1AFBCB57003C2641 /* SVRadialGradientLayer.h */; };
 		3CB14F9D1AFBCB57003C2641 /* SVRadialGradientLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = 3CB14F9B1AFBCB57003C2641 /* SVRadialGradientLayer.m */; };
 		3CB14F9E1AFBCB57003C2641 /* SVRadialGradientLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = 3CB14F9B1AFBCB57003C2641 /* SVRadialGradientLayer.m */; };
@@ -38,6 +39,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		319401362BB3EFB30035F89C /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
 		3CB14F9A1AFBCB57003C2641 /* SVRadialGradientLayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SVRadialGradientLayer.h; sourceTree = "<group>"; };
 		3CB14F9B1AFBCB57003C2641 /* SVRadialGradientLayer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SVRadialGradientLayer.m; sourceTree = "<group>"; };
 		4A9D7DCE1AB345540039B273 /* SVIndefiniteAnimatedView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SVIndefiniteAnimatedView.h; sourceTree = "<group>"; };
@@ -127,6 +129,7 @@
 				6A58C8EB1CAE62F400BF604D /* SVProgressAnimatedView.m */,
 				4A9D7DCE1AB345540039B273 /* SVIndefiniteAnimatedView.h */,
 				4A9D7DCF1AB345540039B273 /* SVIndefiniteAnimatedView.m */,
+				319401362BB3EFB30035F89C /* PrivacyInfo.xcprivacy */,
 				65F0220D15C858060030BBEF /* SVProgressHUD.bundle */,
 				65F0220215C857EF0030BBEF /* Supporting Files */,
 			);
@@ -231,6 +234,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				319401372BB3EFB30035F89C /* PrivacyInfo.xcprivacy in Resources */,
 				4A9D7DF71AB34A620039B273 /* SVProgressHUD.bundle in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
